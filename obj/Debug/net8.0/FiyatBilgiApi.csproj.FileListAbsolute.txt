@@ -1,0 +1,215 @@
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\appsettings.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.staticwebassets.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.exe
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.deps.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.runtimeconfig.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.AssemblyReference.cache
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfoInputs.cache
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.CoreCompileInputs.cache
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\scopedcss\bundle\FiyatBilgiApi.styles.css
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBil.70E1C3BA.Up2Date
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\refint\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.genruntimeconfig.cache
+C:\Users\HASAN ALİ\Desktop\MusteriKayitApi\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\ref\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\appsettings.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.staticwebassets.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.exe
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.deps.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.runtimeconfig.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.AssemblyReference.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfoInputs.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.CoreCompileInputs.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\scopedcss\bundle\FiyatBilgiApi.styles.css
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBil.70E1C3BA.Up2Date
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\refint\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.genruntimeconfig.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi\FiyatBilgiApi\obj\Debug\net8.0\ref\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\appsettings.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.staticwebassets.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.exe
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.deps.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.runtimeconfig.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.AssemblyReference.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfoInputs.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.CoreCompileInputs.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\scopedcss\bundle\FiyatBilgiApi.styles.css
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBil.70E1C3BA.Up2Date
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\refint\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.genruntimeconfig.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - Kopya\FiyatBilgiApi\obj\Debug\net8.0\ref\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\appsettings.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.staticwebassets.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.exe
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.deps.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.runtimeconfig.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.AssemblyReference.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfoInputs.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.CoreCompileInputs.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\scopedcss\bundle\FiyatBilgiApi.styles.css
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBil.70E1C3BA.Up2Date
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\refint\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.genruntimeconfig.cache
+C:\Users\HASAN ALİ\Desktop\MUG-Final Proje\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\ref\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\appsettings.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.staticwebassets.endpoints.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.exe
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.deps.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.runtimeconfig.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.AssemblyReference.cache
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfoInputs.cache
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.AssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.csproj.CoreCompileInputs.cache
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\scopedcss\bundle\FiyatBilgiApi.styles.css
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.FiyatBilgiApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FiyatBilgiApi.props
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBil.70E1C3BA.Up2Date
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\refint\FiyatBilgiApi.dll
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.pdb
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\FiyatBilgiApi.genruntimeconfig.cache
+C:\Users\HASAN ALİ\Desktop\hasan ali öztop-ybs-3.sınıf-orgun-20224703008-mobil uygulama geliştirme projesi\FiyatBilgiApi - son hali\FiyatBilgiApi\obj\Debug\net8.0\ref\FiyatBilgiApi.dll

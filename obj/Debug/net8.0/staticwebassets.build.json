@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Nq5HTMWQ2KGEBX0slI6+y4FJ+AtwMu/7+geQ64G5yIQ=",
+  "Source": "FiyatBilgiApi",
+  "BasePath": "_content/FiyatBilgiApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

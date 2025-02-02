@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "FiyatBilgiApi.Controllers.ValuesController",
+    "Method": "GetCustomers",
+    "RelativePath": "api/Values/GetKayitlar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FiyatBilgiApi.Controllers.ValuesController",
+    "Method": "SearchByDateRange",
+    "RelativePath": "api/Values/SearchByDateRange",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FiyatBilgiApi.Controllers.ValuesController",
+    "Method": "SearchByMusteriAdi",
+    "RelativePath": "api/Values/SearchByMusteriAdi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "musteriAdi",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
